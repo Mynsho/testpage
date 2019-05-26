@@ -1,6 +1,6 @@
 </head>
 <body>
-<div style="font-size:20pt"><b>練習用ページです。</b></div>
+<div style="font-size:24pt"><b>練習用ページです。</b></div>
 </body>
 <br>
 <br>
