@@ -3,6 +3,7 @@
 <div style="font-size:20pt"><b>練習用ページです。</b></div>
 </body>
 <br>
+<br>
 <b>自己紹介</b>
 <div style="width:500px; border:1px solid gray; margin:1em">
 <ul style="list-style:disc">
